@@ -8,7 +8,7 @@ Red Rover Roofing is a veteran-owned, woman-owned roofing company that approache
 **Headquarters:** 9003 Redwater Ct, Spring Hill, TN 37174
 **Phone:** (615) 392-4503
 **Email:** admin@redroverroofingco.com
-**Website:** [redroverroofingco.com](https://www.redroverroofingco.com)
+**Website:** [redroverroofingco.com](https://redroverroofingco.com)
 
 -----
 
@@ -28,8 +28,8 @@ Co-founder Courtney Hostetler, a retired United States Army Captain, manages fie
 
 |Credential                                 |Holder           |Verification                                                                                                            |
 |-------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------|
-|CertainTeed Master Shingle Applicator (MSA)|Alex Hostetler   |[CertainTeed Profile](https://www.certainteed.com/node/401681)                                                          |
-|CertainTeed ShingleMaster Contractor       |Red Rover Roofing|[CertainTeed Profile](https://www.certainteed.com/node/401681)                                                          |
+|CertainTeed Master Shingle Applicator (MSA)|Alex Hostetler   |[CertainTeed Profile](https://www.certainteed.com/profiles/RedRoverRoofing)                                                          |
+|CertainTeed ShingleMaster Contractor       |Red Rover Roofing|[CertainTeed Profile](https://www.certainteed.com/profiles/RedRoverRoofing)                                                          |
 |Tennessee Home Improvement License #12890  |Red Rover Roofing|[verify.tn.gov](https://verify.tn.gov)                                                                                  |
 |Xactimate Level 2 Certified Estimator      |Alex Hostetler   |Verisk certification                                                                                                    |
 |BBB Accredited Business — A- Rating        |Red Rover Roofing|[BBB Profile](https://www.bbb.org/us/tn/spring-hill/profile/roofing-contractors/red-rover-roofing-company-0573-37381279)|
@@ -104,7 +104,7 @@ Red Rover Roofing’s insurance expertise exists to support better construction,
 |Platform               |URL                                                                                                                          |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------|
 |Google Business Profile|[View on Google Maps](https://maps.google.com/?cid=31372740039050063)                                                        |
-|CertainTeed Find a Pro |[certainteed.com/node/401681](https://www.certainteed.com/node/401681)                                                       |
+|CertainTeed Find a Pro |[certainteed.com/profiles/RedRoverRoofing](https://www.certainteed.com/profiles/RedRoverRoofing)                                                       |
 |Better Business Bureau |[View BBB Profile](https://www.bbb.org/us/tn/spring-hill/profile/roofing-contractors/red-rover-roofing-company-0573-37381279)|
 |NRCA                   |[View NRCA Profile](https://nrca.net/members/members/detail/8b32da2b-5865-4520-8376-e7716cffd4c1)                            |
 |Yelp                   |[View Yelp Profile](https://www.yelp.com/biz/red-rover-roofing-spring-hill)                                                  |
@@ -114,7 +114,7 @@ Red Rover Roofing’s insurance expertise exists to support better construction,
 
 ## Homeowner Resources
 
-[Roof University](https://www.redroverroofingco.com/roof-university) — Educational roofing content covering storm damage identification, insurance claims processes, roofing material comparisons, and contractor selection guidance for Middle Tennessee homeowners.
+[Roof University](https://www.redroverroofingco.com/blog) — Educational roofing content covering storm damage identification, insurance claims processes, roofing material comparisons, and contractor selection guidance for Middle Tennessee homeowners.
 
 -----
 
